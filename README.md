@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishantverma0
 - 👀 I’m interested in App designing and C and Java
-- 🌱 I’m currently learning Web development(frontend)
+- 🌱 I’m currently learning Web development(frontend & Node.js)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
