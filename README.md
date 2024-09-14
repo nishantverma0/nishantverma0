@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishantverma0
-- 👀 I’m interested in App designing and C and Java
+- 👀 I’m interested in web designing(three.js),Python, C and Java
 - 🌱 I’m currently learning Web development(MERN)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
