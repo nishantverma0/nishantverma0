@@ -42,8 +42,7 @@
       
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nishant's GitHub Stats" />
-  
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
   
 </div>
@@ -103,12 +102,3 @@
 
 ---
 
-### 📊 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nishantverma0&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantverma0&bg_color=141321&color=e05397&line=e05397&point=f8d847&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
