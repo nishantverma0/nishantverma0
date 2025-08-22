@@ -43,9 +43,9 @@
       
 <div align="center">
 
-  ![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nishant's GitHub Stats" />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&langs_count=8&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
   
 </div>
     </td>
