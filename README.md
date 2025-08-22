@@ -31,16 +31,14 @@
 
 <p>
   <a href="https://linkedin.com/in/nishantv003/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/home/fg/brand-homepg-guidance-inlogo-dsk-v01.jpg/jcr:content/renditions/brand-homepg-guidance-inlogo-dsk-v01-2x.jpg)"/>
   </a>
   <a href="https://www.leetcode.com/nishantverma_0" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="[ttps://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode](https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png)"/>
   </a>
 </p>
 
-    </td>
-    <td valign="top" width="40%">
-      
+     
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nishant's GitHub Stats" />
