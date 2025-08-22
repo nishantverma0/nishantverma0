@@ -16,29 +16,31 @@
   <tr>
     <td valign="top" width="60%">
       
-**A Little More About Me** 💬
+**Decoding the Narrative in the Data** 💬
 
-- 🔭 &nbsp; I’m currently building an **AI-Powered Interview Coach**, helping students gain confidence with real-time feedback.
-- 🌱 &nbsp; Diving deep into **Next.js, Streamlit, the Gemini API**, and advanced React patterns.
-- 🤝 &nbsp; I’m looking for collaborators on a **Social Media Content Authenticator**, a tool to detect fake content using NLP and DeepFace.
-- 💡 &nbsp; Ask me about building dynamic UIs with React/Vue, crafting animations with GSAP, or integrating Generative AI into your apps.
-- 📫 &nbsp; You can reach me at: **nishantv003@gmail.com**
-- ⚡ &nbsp; Fun fact: I build sleek UIs by day and decode memes by night—because frontend and fun go hand-in-hand!
+- 🔭 &nbsp; I build AI tools that unlock potential. My projects include an AI Interview Coach for confidence analytics, an AI Study Planner for personalized learning paths, and more in the pipeline.
+- 🌱 &nbsp; Mastering Next.js, Streamlit, and the Gemini API to build compelling data narratives and interactive user experiences.
+- 🤝 &nbsp; Looking to co-author a new chapter in digital trust with a Social Media Content Authenticator, using NLP and DeepFace to uncover the truth behind the pixels.
+- 💡 &nbsp; Let's talk about weaving data into beautiful UIs with React/Vue, animating insights with GSAP, or infusing your apps with the creative power of Generative AI.
+- 📫 &nbsp; Let's connect and build the next data story: nishantv003@gmail.com
+- ⚡ &nbsp; Fun fact: By day, I'm a data architect. By night, I'm a digital anthropologist, decoding the cultural narratives embedded in memes.
 
 <br>
 
 **Find Me On**
 
-<p>
-  <a href="https://linkedin.com/in/nishantv003/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://linkedin.com/in/nishantv003/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantv003/" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/nishantverma_0" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://www.leetcode.com/nishantverma_0" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantverma_0" height="30" width="40" />
   </a>
 </p>
 
-     
+    </td>
+    <td valign="top" width="40%">
+      
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nishant's GitHub Stats" />
