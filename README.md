@@ -1,116 +1,164 @@
 <div align="center">
 
-# Hi there, I'm Nishant Verma 👋
+# Nishant Verma
 
-### AI/ML Engineer | Full-Stack AI Developer | Building Intelligent Systems
+### AI/ML Engineer | Python Developer | Full-Stack AI Developer
 
-Transforming ideas into AI-powered products through Machine Learning, Generative AI, and scalable backend systems.
+Building AI-powered systems that combine Machine Learning, Backend Engineering, and Intelligent Automation to solve real-world problems.
+
+<p align="center">
+<a href="mailto:nishantv003@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/nishantv003">LinkedIn</a> •
+<a href="https://github.com/nishantverma0">GitHub</a> •
+<a href="https://leetcode.com/nishantverma_0">LeetCode</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=nishantverma0&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## 💬 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building AI-powered applications focused on healthcare, automation, and intelligent user experiences.
-- 🌱 Learning and improving skills in FastAPI, Django, Docker, n8n, and Generative AI workflows.
-- 🤖 Worked on projects including:
-   - LungCare+ (AI-powered lung disease detection system)
-   - Agentic AI Interview Simulator
-   - AI Study Planner
+Final-year B.Tech CSE (AI & ML) student at AKTU with hands-on experience building production-focused AI applications and scalable backend systems.
 
-- 💡 Interested in:
-   - Machine Learning & Deep Learning
-   - Generative AI
-   - Backend Development
-   - Workflow Automation
-   - AI Agents
+✔ Developed AI-powered applications for healthcare, interview intelligence, and personalized learning
 
-- 📫 Reach me at: **nishantv003@gmail.com**
+✔ Built REST APIs, ETL pipelines, and full-stack applications using Python ecosystem
 
-- ⚡ Fun Fact:
-I enjoy transforming real-world problems into practical AI solutions.
+✔ Experience in Machine Learning, FastAPI, Django, Docker, SQL, and workflow automation
+
+✔ Interested in Generative AI, AI Agents, Data Engineering, and scalable systems
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Experience
 
-<p align="left">
-<a href="https://linkedin.com/in/nishantv003">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
+### Python Developer Intern | WISHTML
+**June 2025 – July 2025**
 
-<a href="https://github.com/nishantverma0">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="35"/>
-</a>
+• Built production ETL pipelines using Python, SQL, and REST APIs
 
-<a href="https://leetcode.com/nishantverma_0">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-</a>
-</p>
+• Reduced manual processing effort by **40%**
+
+• Optimized database schemas and backend workflows
+
+• Collaborated with engineering teams on enterprise applications
 
 ---
 
-# 🚀 Tech Stack
-
-### Frontend Development
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p>
-
-### Backend & APIs
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
-</p>
-
-### AI / ML
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40"/>
-</p>
-
-### Database & DevOps
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🫁 LungCare+
-AI-powered CT scan analysis and disease prediction system with chatbot support and doctor recommendation.
 
-### 🎯 Agentic AI Interview Simulator
-AI interview system with NLP-based evaluation, sentiment analysis, and confidence feedback.
+AI-powered lung disease triage platform using CT scan analysis.
 
-### 📚 AI Study Planner
-ML-powered personalized study scheduling and productivity tracking platform.
+**Tech Stack:** Python, Django, REST APIs, Docker, JavaScript
+
+✔ Built complete full-stack application
+
+✔ Developed AI-based prediction workflow
+
+✔ Integrated chatbot for symptom analysis
+
+✔ Reduced manual effort by **30%**
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 Agentic AI Interview Simulator
+
+AI-powered interview coaching system with contextual evaluation and confidence analysis.
+
+**Tech Stack:** FastAPI, NLP, Computer Vision, Docker
+
+✔ Built asynchronous backend architecture
+
+✔ Achieved **sub-1.5 second API response latency**
+
+✔ Improved feedback precision by **25%**
+
+---
+
+### 📚 AI Study Planner
+
+ML-powered personalized study planning system.
+
+**Tech Stack:** Scikit-Learn, Firebase, JavaScript
+
+✔ Achieved **95% scheduling accuracy**
+
+✔ Increased user engagement by **30%**
+
+✔ Automated progress tracking workflows
+
+---
+
+# 🛠 Technical Skills
+
+### Languages
+Python • JavaScript • SQL
+
+### Frontend
+HTML5 • CSS3 • React.js • Bootstrap • Responsive Design
+
+### Backend
+FastAPI • Django • Flask • REST APIs • Async Programming
+
+### AI / Machine Learning
+Scikit-learn • NLP • Data Preprocessing • Generative AI
+
+### Database
+MySQL • MongoDB • Firebase
+
+### Tools & DevOps
+Git • Docker • AWS • Postman • n8n • Workflow Automation
+
+### Core CS
+Data Structures & Algorithms • OOP • Operating Systems • Computer Networks
+
+---
+
+## 🏆 Achievements
+
+🏅 Presented AI research work at ICTEM 2.0 International Conference
+
+🏅 Built multiple production-ready AI projects
+
+🏅 Active problem solving and continuous learning in AI/ML ecosystem
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantverma0"/>
 
 </p>
 
 ---
 
-⭐ Building AI solutions that solve real-world problems
+## 🤝 Let's Connect
+
+I'm actively looking for opportunities in:
+
+✔ AI Engineer  
+✔ Machine Learning Engineer  
+✔ Python Developer  
+✔ Backend Developer  
+✔ Generative AI Engineer  
+
+📩 Reach me: **nishantv003@gmail.com**
+
+---
+
+### "Building intelligent systems that create measurable impact."
