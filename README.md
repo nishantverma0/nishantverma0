@@ -1,19 +1,32 @@
 <div align="center">
 
-# Nishant Verma
+# Hi 👋 I'm Nishant Verma
 
 ### AI/ML Engineer | Python Developer | Full-Stack AI Developer
 
-Building AI-powered systems that combine Machine Learning, Backend Engineering, and Intelligent Automation to solve real-world problems.
+Building AI-powered systems using Machine Learning, Backend Engineering, and Intelligent Automation to solve real-world problems.
 
 <p align="center">
-<a href="mailto:nishantv003@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/nishantv003">LinkedIn</a> •
-<a href="https://github.com/nishantverma0">GitHub</a> •
-<a href="https://leetcode.com/nishantverma_0">LeetCode</a>
+
+<a href="mailto:nishantv003@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nishantv003">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nishantverma0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/nishantverma_0">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=nishantverma0&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=nishantverma0&label=Profile+Views&color=blue"/>
 
 </div>
 
@@ -21,30 +34,34 @@ Building AI-powered systems that combine Machine Learning, Backend Engineering, 
 
 ## 👨‍💻 About Me
 
-Final-year B.Tech CSE (AI & ML) student at AKTU with hands-on experience building production-focused AI applications and scalable backend systems.
+🎓 Final-year B.Tech CSE (AI & ML) student at AKTU  
 
-✔ Developed AI-powered applications for healthcare, interview intelligence, and personalized learning
+🚀 Building AI-powered products and scalable backend systems
 
-✔ Built REST APIs, ETL pipelines, and full-stack applications using Python ecosystem
+💡 Interested in:
+- Generative AI
+- AI Agents
+- Machine Learning
+- Backend Engineering
+- Workflow Automation
 
-✔ Experience in Machine Learning, FastAPI, Django, Docker, SQL, and workflow automation
-
-✔ Interested in Generative AI, AI Agents, Data Engineering, and scalable systems
+🌱 Currently improving skills in FastAPI, Docker, AI Agents & Cloud technologies
 
 ---
 
 ## 💼 Experience
 
-### Python Developer Intern | WISHTML
-**June 2025 – July 2025**
+### 🏢 Python Developer Intern | WISHTML
 
-• Built production ETL pipelines using Python, SQL, and REST APIs
+📅 June 2025 – July 2025
 
-• Reduced manual processing effort by **40%**
+✔ Built production ETL pipelines using Python, SQL, and REST APIs
 
-• Optimized database schemas and backend workflows
+✔ Reduced manual effort by **40%**
 
-• Collaborated with engineering teams on enterprise applications
+✔ Optimized backend workflows and database schemas
+
+✔ Collaborated with engineering teams on enterprise systems
 
 ---
 
@@ -52,15 +69,15 @@ Final-year B.Tech CSE (AI & ML) student at AKTU with hands-on experience buildin
 
 ### 🫁 LungCare+
 
-AI-powered lung disease triage platform using CT scan analysis.
+**Tech Stack**
 
-**Tech Stack:** Python, Django, REST APIs, Docker, JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-✔ Built complete full-stack application
+✔ AI-powered CT scan analysis platform
 
-✔ Developed AI-based prediction workflow
-
-✔ Integrated chatbot for symptom analysis
+✔ Integrated chatbot support
 
 ✔ Reduced manual effort by **30%**
 
@@ -68,13 +85,15 @@ AI-powered lung disease triage platform using CT scan analysis.
 
 ### 🎯 Agentic AI Interview Simulator
 
-AI-powered interview coaching system with contextual evaluation and confidence analysis.
+**Tech Stack**
 
-**Tech Stack:** FastAPI, NLP, Computer Vision, Docker
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-AI-blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-✔ Built asynchronous backend architecture
+✔ Built async backend architecture
 
-✔ Achieved **sub-1.5 second API response latency**
+✔ Sub **1.5 sec** response latency
 
 ✔ Improved feedback precision by **25%**
 
@@ -82,54 +101,58 @@ AI-powered interview coaching system with contextual evaluation and confidence a
 
 ### 📚 AI Study Planner
 
-ML-powered personalized study planning system.
+**Tech Stack**
 
-**Tech Stack:** Scikit-Learn, Firebase, JavaScript
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ✔ Achieved **95% scheduling accuracy**
 
 ✔ Increased user engagement by **30%**
 
-✔ Automated progress tracking workflows
+✔ Automated planning workflows
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Tech Stack
 
 ### Languages
-Python • JavaScript • SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>
+</p>
 
 ### Frontend
-HTML5 • CSS3 • React.js • Bootstrap • Responsive Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+</p>
 
 ### Backend
-FastAPI • Django • Flask • REST APIs • Async Programming
 
-### AI / Machine Learning
-Scikit-learn • NLP • Data Preprocessing • Generative AI
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi"/>
+</p>
 
-### Database
-MySQL • MongoDB • Firebase
+### Database & Tools
 
-### Tools & DevOps
-Git • Docker • AWS • Postman • n8n • Workflow Automation
-
-### Core CS
-Data Structures & Algorithms • OOP • Operating Systems • Computer Networks
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,git,aws"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Presented AI research work at ICTEM 2.0 International Conference
+🏅 Research Paper Presentation — ICTEM 2.0 International Conference
 
-🏅 Built multiple production-ready AI projects
+🏅 Built production-oriented AI applications
 
-🏅 Active problem solving and continuous learning in AI/ML ecosystem
+🏅 Active AI/ML learner and problem solver
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -149,16 +172,16 @@ Data Structures & Algorithms • OOP • Operating Systems • Computer Networks
 
 ## 🤝 Let's Connect
 
-I'm actively looking for opportunities in:
+💼 Open to opportunities in:
 
-✔ AI Engineer  
-✔ Machine Learning Engineer  
-✔ Python Developer  
-✔ Backend Developer  
-✔ Generative AI Engineer  
+🤖 AI Engineer  
+🧠 Machine Learning Engineer  
+🐍 Python Developer  
+⚙ Backend Developer  
+✨ Generative AI Engineer
 
-📩 Reach me: **nishantv003@gmail.com**
+📩 **nishantv003@gmail.com**
 
 ---
 
-### "Building intelligent systems that create measurable impact."
+### 🚀 Building intelligent systems that create measurable impact
