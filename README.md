@@ -154,11 +154,6 @@ Deployment --> BusinessVerse AI
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantverma0&theme=react-dark"/>
-
-</p>
 
 ---
 
@@ -203,7 +198,6 @@ Deployment --> BusinessVerse AI
 <img src="https://komarev.com/ghpvc/?username=nishantverma0&style=for-the-badge&color=blue"/>
 
 </p>
-```
 
 ### To make it feel like a real portfolio, you can also add:
 
