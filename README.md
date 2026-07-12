@@ -1,233 +1,154 @@
-
-<h1 align="center">
-Hi 👋 I'm Nishant Verma
-</h1>
+<h1 align="center">Hi 👋, I'm Nishant Verma</h1>
 
 <h3 align="center">
-AI Engineer • GenAI Developer • Full Stack Developer • Building Autonomous AI Systems
+AI Engineer • Generative AI • Agentic AI • LLM Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Generative+AI+Engineer;LangGraph+%7C+RAG+%7C+Multi-Agent+AI;FastAPI+%7C+React+%7C+Docker;Always+Learning+🚀"/>
+Building production-ready AI systems using LLMs, LangGraph, LangChain, RAG, FastAPI, n8n, and cloud-native technologies.
+</p>
+
+<p align="center">
+
+<a href="https://nishantverma.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nishantv003">
+<img src="https://img.shields.io/badge/LinkedIn-Nishant%20Verma-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nishantv003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Generative+AI+Engineer;Agentic+AI+Developer;LLMs+%7C+LangGraph+%7C+RAG;FastAPI+%7C+n8n+%7C+Docker;Always+Learning+🚀"/>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🧠 AI/ML Engineer passionate about building production-grade AI products.
+I'm an AI Engineer passionate about designing and deploying intelligent AI systems that solve real-world business problems.
 
-🚀 Current Focus
+I specialize in building:
 
-- Multi-Agent AI
-- BusinessVerse AI
+- 🤖 Agentic AI Applications
+- 🧠 Multi-Agent Systems
+- 📚 Enterprise RAG Pipelines
+- ⚡ FastAPI AI Backends
+- 🔄 AI Automation using n8n
+- ☁️ Cloud-native AI Applications
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+
+---
+
+## Generative AI
+
+- Large Language Models (LLMs)
+- OpenAI
+- Google Gemini
+- Claude
+- Ollama
+- LangChain
 - LangGraph
-- LLM Applications
-- RAG Pipelines
-- AI Automation
-- MLOps
+- Prompt Engineering
+- Function Calling
+- Structured Outputs
+- AI Agents
+- Multi-Agent Systems
 
 ---
 
-# 🚀 Currently Building
+## AI & Machine Learning
 
-flowchart LR
-
-Idea --> Research
-Research --> LLM
-LLM --> LangGraph
-LangGraph --> RAG
-RAG --> Agents
-Agents --> Deployment
-Deployment --> BusinessVerse AI
+- PyTorch
+- TensorFlow
+- Hugging Face
+- Scikit-learn
+- OpenCV
+- CNN
+- NLP
+- Transfer Learning
 
 ---
 
+## Backend
 
-# 🌍 Architecture
+- FastAPI
+- Django
+- REST APIs
+- Pydantic
+- JWT Authentication
+- Background Tasks
 
-                ┌──────────────┐
-                │    User      │
-                └──────┬───────┘
-                       │
-                 React Frontend
-                       │
-              FastAPI Backend
-                       │
-      ┌────────────────────────┐
-      │ Multi Agent Workflow   │
-      └────────────────────────┘
-             │      │      │
-      LangGraph   RAG   ML Models
-             │      │      │
-          PostgreSQL Vector DB
+---
 
+## Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- FAISS
+- ChromaDB
+- pgvector
+- Qdrant
+
+---
+
+## DevOps
+
+- Docker
+- AWS
+- GitHub Actions
+- CI/CD
+- Linux
+
+---
+
+## Automation
+
+- n8n
+- CrewAI
+- Webhooks
+- API Integration
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ## 🧠 BusinessVerse AI
 
-✔ Multi-Agent Business Intelligence
+Production-grade Multi-Agent Business Intelligence Platform.
 
-✔ KPI Dashboard
-
-✔ AI Analytics
-
-✔ Decision Engine
-
-✔ Event Timeline
-
-✔ FastAPI
-
-✔ React
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Interview Analyzer
-
-✔ Gemini AI
-
-✔ Emotion Detection
-
-✔ Sentiment Analysis
-
-✔ Streamlit
-
-✔ OpenCV
-
-✔ DeepFace
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 📦 Inventory Management
-
-✔ Docker
-
-✔ PostgreSQL
-
-✔ Analytics
-
-✔ Dashboard
-
-✔ FastAPI
-
-</td>
-
-<td>
-
-## 🫁 LungCare+
-
-✔ AI Diagnosis
-
-✔ Medical Imaging
-
-✔ Doctor Portal
-
-✔ Patient Dashboard
-
-</td>
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantverma0&theme=tokyonight"/>
-
-</p>
-
-
----
-
-# 🏆 Achievements
-
-🏅 Production AI Projects
-
-🏅 Full Stack AI Applications
-
-🏅 LangGraph Workflows
-
-🏅 Multi-Agent Systems
-
-🏅 RAG Pipelines
-
-🏅 AI Automation
-
-🏅 Open Source
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/nishantv003">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/nishantverma0">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 "Building AI that solves real business problems."
-
-<img src="https://komarev.com/ghpvc/?username=nishantverma0&style=for-the-badge&color=blue"/>
-
-</p>
-
-### To make it feel like a real portfolio, you can also add:
-
-* 🎬 Animated typing banner
-* 🌌 Matrix/Snake contribution animation
-* 📈 Wakatime coding statistics
-* 📅 GitHub contribution calendar
-* 🗺️ "Currently Learning" roadmap
-* 🤖 AI tech stack infographic
-* 🌐 Portfolio website preview
-* 📊 LeetCode/Codeforces stats
-* 📰 Latest blog posts (auto-updated)
-* 🎵 Spotify "Now Playing"
-* 📬 Recent GitHub activity feed
-* 💼 "Available for AI/GenAI opportunities" badge
-
-This style gives your GitHub profile the look and feel of a modern **AI engineer's interactive portfolio** rather than a simple README.
-
-
-Production-grade AI Business Intelligence Platform.
-
-### Features
+**Highlights**
 
 - Multi-Agent Architecture
-- AI Decision Engine
+- LangGraph
+- FastAPI
+- React
 - KPI Dashboard
-- Event Timeline
 - Business Analytics
-- FastAPI Backend
-- React Frontend
+- Event Timeline
+- PostgreSQL
+- Docker
 
 <a href="https://github.com/nishantverma0/Businessverse-AI">
 
@@ -235,21 +156,36 @@ Production-grade AI Business Intelligence Platform.
 
 </a>
 
-</td>
+---
 
-<td width="50%">
+## 🫁 LungCare+
 
-### 🤖 AI Interview Analyzer
+AI-powered healthcare platform for intelligent lung disease detection.
+
+**Highlights**
+
+- Medical AI
+- Deep Learning
+- AI Diagnosis
+- Doctor Dashboard
+- Patient Portal
+- FastAPI
+- RAG
+
+---
+
+## 🤖 AI Interview Analyzer
 
 AI-powered interview evaluation platform.
 
-### Features
+**Highlights**
 
 - Gemini AI
-- Sentiment Analysis
-- DeepFace
 - Emotion Detection
+- Sentiment Analysis
 - Streamlit
+- OpenCV
+- DeepFace
 
 <a href="https://github.com/nishantverma0/AI-Interview-Analyzer">
 
@@ -257,23 +193,19 @@ AI-powered interview evaluation platform.
 
 </a>
 
-</td>
+---
 
-</tr>
+## 📦 Inventory Management System
 
-<tr>
+Production-ready inventory platform.
 
-<td>
-
-### 📦 Inventory Management
-
-Modern Inventory Platform.
+**Highlights**
 
 - FastAPI
-- PostgreSQL
 - Docker
+- PostgreSQL
+- Analytics Dashboard
 - React
-- Analytics
 
 <a href="https://github.com/nishantverma0/inventory-management-system">
 
@@ -281,66 +213,78 @@ Modern Inventory Platform.
 
 </a>
 
-</td>
+---
 
-<td>
+# 💼 Open to Opportunities
 
-### 🫁 LungCare+
+I'm actively looking for full-time opportunities as:
 
-AI Healthcare Platform.
-
-- Deep Learning
-- Medical Imaging
-- Dashboard
-- Reports
-
-</td>
-
-</tr>
-
-</table>
+- AI Engineer
+- Generative AI Engineer
+- Agentic AI Engineer
+- LLM Engineer
+- AI Backend Engineer
+- AI Automation Engineer
 
 ---
 
-# 📌 More Projects
-
-| Project | Tech |
-|---------|------|
-| 🧠 BusinessVerse AI | LangGraph, FastAPI, React |
-| 🤖 AI Interview Analyzer | Api, GPT-4o |
-| 📦 Inventory Management | FastAPI, Docker |
-| 🫁 LungCare+ | AI + Django |
-| 🎯 AI Lead Qualification | n8n |
-| 📰 Autonomous Newsletter Agent | n8n + AI |
-| 📄 AI Resume Generator | LLM |
-| 📚 AI Study Planner | Next.js |
-
----
-
-# 📈 GitHub Dashboard
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=nishantverma0&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=nishantverma0&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
+
+- 📄 Co-authored an AI healthcare research paper.
+- 🤖 Built production-ready AI and Agentic AI applications.
+- 🏥 Developed an AI-powered healthcare platform.
+- ⚡ Created AI automation workflows using n8n.
+- 🚀 Built scalable FastAPI backend systems.
+- 🧠 Specialized in LLMs, LangGraph, and RAG pipelines.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nishantverma0&theme=algolia&margin-w=10&margin-h=10"/>
+<a href="https://nishantverma.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/nishantv003">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nishantv003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nishantverma0&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+<p align="center">
+
+### 💡 *"Building production-ready AI systems that businesses can deploy, trust, and scale."*
+
+</p>
