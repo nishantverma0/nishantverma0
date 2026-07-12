@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nishant Verma
 
-### AI Engineer | Generative AI | Agentic AI | LLM Engineer
+### 🤖 AI Engineer | 🧠 Generative AI | 🕵️ Agentic AI | 💬 LLM Engineer
 
 I build production-ready AI systems that automate complex workflows using LLMs, Agentic AI, LangGraph, LangChain, RAG, FastAPI, n8n, and modern cloud technologies.
 
@@ -8,134 +8,131 @@ I build production-ready AI systems that automate complex workflows using LLMs, 
 
 ## 🚀 About Me
 
-- 🤖 Building Generative AI & Agentic AI applications
-- 🧠 Developing AI Agents & Multi-Agent Systems
-- 📚 Designing scalable RAG pipelines & Vector Search
-- ⚡ Creating FastAPI backend services for AI products
-- 🔄 Automating workflows using n8n & AI
-- ☁️ Deploying AI applications with Docker & Cloud
+* 🤖 Building Generative AI & Agentic AI applications
+* 🧠 Developing AI Agents & Multi-Agent Systems
+* 📚 Designing scalable RAG pipelines & Vector Search
+* ⚡ Creating FastAPI backend services for AI products
+* 🔄 Automating workflows using n8n & AI
+* ☁️ Deploying AI applications with Docker & Cloud
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-Python • SQL • JavaScript • TypeScript
+### 👨‍💻 Languages
 
-### AI & Generative AI
-- Large Language Models (LLMs)
-- OpenAI
-- Google Gemini
-- Claude
-- Ollama
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Multi-Agent Systems
-- Prompt Engineering
-- Tool Calling
-- Structured Outputs
+🐍 Python • 💾 SQL • 🟨 JavaScript • 🟦 TypeScript
 
-### Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- OpenCV
-- Hugging Face
-- CNNs
-- NLP
-- Transfer Learning
+### 🧠 AI & Generative AI
 
-### Backend
-- FastAPI
-- Django
-- REST APIs
-- Pydantic
-- JWT Authentication
-- Background Tasks
+* 🤖 Large Language Models (LLMs)
+* 🟢 OpenAI
+* ✨ Google Gemini
+* 🧠 Claude
+* 🦙 Ollama
+* 🦜🔗 LangChain
+* 🕸️ LangGraph
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 🕵️ AI Agents
+* 🤝 Multi-Agent Systems
+* 📝 Prompt Engineering
+* 🛠️ Tool Calling
+* 🏗️ Structured Outputs
 
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- FAISS
-- ChromaDB
-- pgvector
-- Qdrant
+### 📊 Machine Learning
 
-### DevOps & Cloud
-- Docker
-- AWS
-- GitHub Actions
-- CI/CD
-- Linux
+* 🔥 PyTorch
+* 🟧 TensorFlow
+* 📈 Scikit-learn
+* 👁️ OpenCV
+* 🤗 Hugging Face
+* 🖼️ CNNs
+* 🗣️ NLP
+* 🔄 Transfer Learning
 
-### Automation
-- n8n
-- CrewAI
+### ⚙️ Backend
+
+* ⚡ FastAPI
+* 🎸 Django
+* 🔌 REST APIs
+* 🛡️ Pydantic
+* 🔑 JWT Authentication
+* ⏳ Background Tasks
+
+### 🗄️ Databases
+
+* 🐘 PostgreSQL
+* 🍃 MongoDB
+* 🐬 MySQL
+* 🔍 FAISS
+* 🌈 ChromaDB
+* 🗃️ pgvector
+* 🎯 Qdrant
+
+### ☁️ DevOps & Cloud
+
+* 🐳 Docker
+* 🌩️ AWS
+* 🐙 GitHub Actions
+* 🔄 CI/CD
+* 🐧 Linux
+
+### 🔄 Automation
+
+* ⚙️ n8n
+* 🚢 CrewAI
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🧠 BusinessVerse AI
+
 AI-powered business operations platform using Agentic AI, FastAPI, LangGraph, PostgreSQL, Docker, and React.
 
 ---
 
 ### 🏥 LungCare+
+
 Healthcare AI platform for intelligent lung disease detection using Deep Learning, FastAPI, RAG, and AI-assisted diagnosis.
 
 ---
 
 ### 🎤 AI Interview Analyzer
+
 LLM-powered interview coaching system providing structured feedback and personalized improvement recommendations.
 
 ---
 
 ### 🤖 AI Lead Qualification System
+
 Agentic AI workflow that qualifies leads, enriches CRM data, drafts outreach, and automates sales processes using n8n.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Agentic AI
-- MCP (Model Context Protocol)
-- AI Evaluation & Guardrails
-- Multi-Agent Orchestration
-- AI Observability
-- Enterprise RAG
-- LLM Fine-Tuning
+* 🎓 Advanced Agentic AI
+* 🔌 MCP (Model Context Protocol)
+* 🛡️ AI Evaluation & Guardrails
+* 🎼 Multi-Agent Orchestration
+* 👁️‍🗨️ AI Observability
+* 🏢 Enterprise RAG
+* 🎛️ LLM Fine-Tuning
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantverma0&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/nishantv003
-- 🌐 Portfolio: https://nishantverma.vercel.app
-- 📧 Email: nishantv003@gmail.com
-- 💻 GitHub: https://github.com/nishantverma0
+* 💼 **LinkedIn:** [https://linkedin.com/in/nishantv003](https://linkedin.com/in/nishantv003)
+* 🌐 **Portfolio:** [https://nishantverma.vercel.app](https://nishantverma.vercel.app)
+* 📧 **Email:** nishantv003@gmail.com
+* 💻 **GitHub:** [https://github.com/nishantverma0](https://github.com/nishantverma0)
 
 ---
 
-> **Building AI systems that businesses can deploy, trust, and scale.**
+> **💡 Building AI systems that businesses can deploy, trust, and scale.**
