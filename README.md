@@ -65,23 +65,73 @@
 - ⚙️ n8n • 🚢 CrewAI
 
 ---
-
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 BusinessVerse AI
+
+Production-grade Multi-Agent Business Intelligence Platform built with LangGraph, FastAPI, PostgreSQL, Docker, and React.
+
 <p align="center">
-  <a href="https://github.com/nishantverma0/Businessverse-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Businessverse-AI&theme=tokyonight&show_icons=true" alt="BusinessVerse AI" />
-  </a>
-  <a href="https://github.com/nishantverma0/Agnetic-AI-Interview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Agnetic-AI-Interview&theme=tokyonight&show_icons=true" alt="AI Interview Analyzer" />
-  </a>
+<a href="https://github.com/nishantverma0/Businessverse-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Businessverse-AI&theme=tokyonight&show_icons=true" />
+</a>
 </p>
 
-### 🏥 LungCare+
-Healthcare AI platform for intelligent lung disease detection using Deep Learning, FastAPI, RAG, and AI-assisted diagnosis.
+</td>
 
-### 🤖 AI Lead Qualification System
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI Interview
+
+AI-powered interview simulator with multi-agent evaluation, LLM feedback, emotion analysis, and recruiter-style scoring.
+
+<p align="center">
+<a href="https://github.com/nishantverma0/Agnetic-AI-Interview">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Agnetic-AI-Interview&theme=tokyonight&show_icons=true" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 LungCare+
+
+AI-powered healthcare platform for intelligent lung disease detection using Deep Learning, FastAPI, RAG, and AI-assisted diagnosis.
+
+<p align="center">
+<a href="https://github.com/nishantverma0/LungCare-An-AI-Driven-CT-Scan-Based-Lung-Cancer-Triage-and-Intelligent-Doctor-Recommendation-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=LungCare-An-AI-Driven-CT-Scan-Based-Lung-Cancer-Triage-and-Intelligent-Doctor-Recommendation-System&theme=tokyonight&show_icons=true" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 AI Lead Qualification System
+
 Agentic AI workflow that qualifies leads, enriches CRM data, drafts outreach, and automates sales processes using n8n.
+
+<p align="center">
+<a href="https://github.com/nishantverma0/AI-Lead-Qualification-System-n8n">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=AI-Lead-Qualification-System-n8n&theme=tokyonight&show_icons=true" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -97,16 +147,6 @@ Agentic AI workflow that qualifies leads, enriches CRM data, drafts outreach, an
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantverma0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
