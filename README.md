@@ -15,15 +15,15 @@ RAG, FastAPI, n8n, and cloud-native technologies.
 
 <p align="center">
   <a href="https://nishantverma.vercel.app">
-    <img src="https://cdn.simpleicons.org/vercel" width="45" alt="Portfolio"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nishantv003">
-    <img src="https://cdn.simpleicons.org/linkedin" width="45" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nishantv003@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="45" alt="Gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail"/>
   </a>
 </p>
 
@@ -47,7 +47,20 @@ I'm an AI Engineer passionate about building production-grade AI applications us
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nextjs,ts,js,docker,aws,postgres,mongodb,git,github,linux&perline=7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" title="Python"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" title="FastAPI"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" alt="Django" title="Django"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" title="React"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" title="Next.js"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker" title="Docker"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" title="AWS"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" title="MongoDB"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" title="Git"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" title="GitHub"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
 </p>
 
 ## 🤖 AI & GenAI
@@ -55,49 +68,49 @@ I'm an AI Engineer passionate about building production-grade AI applications us
 <p align="center">
 
 <a href="https://openai.com">
-<img src="https://cdn.simpleicons.org/openai" width="55" alt="OpenAI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="55" alt="OpenAI" title="OpenAI"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://ai.google.dev">
-<img src="https://cdn.simpleicons.org/googlegemini" width="55" alt="Gemini"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="55" alt="Gemini" title="Gemini"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://huggingface.co">
-<img src="https://cdn.simpleicons.org/huggingface" width="55" alt="Hugging Face"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" alt="Hugging Face" title="Hugging Face"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://ollama.com">
-<img src="https://cdn.simpleicons.org/ollama" width="55" alt="Ollama"/>
+<img src="https://avatars.githubusercontent.com/u/144605938?s=200&v=4" width="55" alt="Ollama" title="Ollama"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.langchain.com">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" alt="LangChain"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" alt="LangChain" title="LangChain"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.langchain.com/langgraph">
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/icon.png" width="55" alt="LangGraph"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/icon.png" width="55" alt="LangGraph" title="LangGraph"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://faiss.ai">
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" alt="FAISS"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" alt="FAISS" title="FAISS"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://n8n.io">
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="55" alt="n8n"/>
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="55" alt="n8n" title="n8n"/>
 </a>
 
 </p>
@@ -153,12 +166,6 @@ AI-powered healthcare platform for intelligent lung disease detection.
 - LLM Engineer
 - AI Backend Engineer
 - AI Automation Engineer
-
----
-
-
-
-
 
 ---
 
