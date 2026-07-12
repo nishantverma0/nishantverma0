@@ -14,16 +14,20 @@ RAG, FastAPI, n8n, and cloud-native technologies.
 </p>
 
 <p align="center">
+  <a href="https://github.com/nishantverma0">
+    <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nishantverma.vercel.app">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/vercel/000000" width="45" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nishantv003">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nishantv003@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Gmail"/>
   </a>
 </p>
 
@@ -47,20 +51,21 @@ I'm an AI Engineer passionate about building production-grade AI applications us
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" title="Python"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" title="FastAPI"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" alt="Django" title="Django"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" title="React"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" title="Next.js"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker" title="Docker"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" title="AWS"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" title="MongoDB"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" title="Git"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" title="GitHub"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="NextJS" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 0 5px;" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" style="margin: 0 5px;" />
 </p>
 
 ## 🤖 AI & GenAI
@@ -68,49 +73,49 @@ I'm an AI Engineer passionate about building production-grade AI applications us
 <p align="center">
 
 <a href="https://openai.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="55" alt="OpenAI" title="OpenAI"/>
+<img src="https://cdn.simpleicons.org/openai/412991" width="55" alt="OpenAI"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://ai.google.dev">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="55" alt="Gemini" title="Gemini"/>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" alt="Gemini"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://huggingface.co">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" alt="Hugging Face" title="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" alt="Hugging Face"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://ollama.com">
-<img src="https://avatars.githubusercontent.com/u/144605938?s=200&v=4" width="55" alt="Ollama" title="Ollama"/>
+<img src="https://cdn.simpleicons.org/ollama/000000" width="55" alt="Ollama"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.langchain.com">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" alt="LangChain" title="LangChain"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" alt="LangChain"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.langchain.com/langgraph">
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/icon.png" width="55" alt="LangGraph" title="LangGraph"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/icon.png" width="55" alt="LangGraph"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://faiss.ai">
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" alt="FAISS" title="FAISS"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" alt="FAISS"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://n8n.io">
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="55" alt="n8n" title="n8n"/>
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="55" alt="n8n"/>
 </a>
 
 </p>
@@ -118,6 +123,17 @@ I'm an AI Engineer passionate about building production-grade AI applications us
 ---
 
 # 🚀 Featured Projects
+
+## ⚙️ AURA-X
+
+Autonomous AI work operating system with multi-agent orchestration.
+
+- Multi-Agent Orchestration
+- Model Context Protocol (MCP)
+- n8n Workflow Automation
+- Retrieval-Augmented Generation (RAG)
+
+---
 
 ## 🧠 BusinessVerse AI
 
@@ -148,7 +164,7 @@ AI-powered healthcare platform for intelligent lung disease detection.
 
 ## 🤖 AI Interview Analyzer
 
-![Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=AI-Interview-Analyzer&theme=tokyonight)
+![Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Agnetic-AI-Interview&theme=tokyonight)
 
 ---
 
@@ -183,6 +199,7 @@ AI-powered healthcare platform for intelligent lung disease detection.
 # 📫 Connect
 
 <p align="center">
+  <a href="https://github.com/nishantverma0">GitHub</a> •
   <a href="https://nishantverma.vercel.app">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/nishantv003">LinkedIn</a> •
   <a href="mailto:nishantv003@gmail.com">Email</a>
