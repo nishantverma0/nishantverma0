@@ -1,214 +1,141 @@
 # Hi 👋 I'm Nishant Verma
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Engineer;Agentic+AI+Engineer;LLMs+%7C+LangGraph+%7C+RAG;FastAPI+%7C+n8n+%7C+Docker;Building+Production+AI+Systems+🚀" />
-</p>
+### AI Engineer | Generative AI | Agentic AI | LLM Engineer
 
-<h3 align="center">
-AI Engineer • Generative AI • Agentic AI Engineer • LLM Engineer
-</h3>
-
-<p align="center">
-Building production-ready AI systems using LLMs, LangGraph, LangChain,
-RAG, FastAPI, n8n, and cloud-native technologies.
-</p>
-
-<p align="center">
-  <a href="https://github.com/nishantverma0">
-    <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://nishantverma.vercel.app">
-    <img src="https://cdn.simpleicons.org/vercel/000000" width="45" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nishantv003">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nishantv003@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Gmail"/>
-  </a>
-</p>
+I build production-ready AI systems that automate complex workflows using LLMs, Agentic AI, LangGraph, LangChain, RAG, FastAPI, n8n, and modern cloud technologies.
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-I'm an AI Engineer passionate about building production-grade AI applications using LLMs, Agentic AI, RAG, LangGraph, FastAPI, and cloud-native technologies.
-
-## 🚀 Current Focus
-
-- 🤖 Agentic AI Applications
-- 🧠 Multi-Agent Systems
-- 📚 Enterprise RAG
-- ⚡ FastAPI AI Backends
-- 🔄 AI Automation with n8n
-- ☁️ Cloud-native AI Systems
+- 🤖 Building Generative AI & Agentic AI applications
+- 🧠 Developing AI Agents & Multi-Agent Systems
+- 📚 Designing scalable RAG pipelines & Vector Search
+- ⚡ Creating FastAPI backend services for AI products
+- 🔄 Automating workflows using n8n & AI
+- ☁️ Deploying AI applications with Docker & Cloud
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="NextJS" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 0 5px;" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" style="margin: 0 5px;" />
-</p>
+### Languages
+Python • SQL • JavaScript • TypeScript
 
-## 🤖 AI & GenAI
+### AI & Generative AI
+- Large Language Models (LLMs)
+- OpenAI
+- Google Gemini
+- Claude
+- Ollama
+- LangChain
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Multi-Agent Systems
+- Prompt Engineering
+- Tool Calling
+- Structured Outputs
 
-<p align="center">
+### Machine Learning
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- Hugging Face
+- CNNs
+- NLP
+- Transfer Learning
 
-<a href="https://openai.com">
-<img src="https://cdn.simpleicons.org/openai/412991" width="55" alt="OpenAI"/>
-</a>
+### Backend
+- FastAPI
+- Django
+- REST APIs
+- Pydantic
+- JWT Authentication
+- Background Tasks
 
-&nbsp;&nbsp;&nbsp;
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+- FAISS
+- ChromaDB
+- pgvector
+- Qdrant
 
-<a href="https://ai.google.dev">
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" alt="Gemini"/>
-</a>
+### DevOps & Cloud
+- Docker
+- AWS
+- GitHub Actions
+- CI/CD
+- Linux
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://huggingface.co">
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" alt="Hugging Face"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://ollama.com">
-<img src="https://cdn.simpleicons.org/ollama/000000" width="55" alt="Ollama"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.langchain.com">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="55" alt="LangChain"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.langchain.com/langgraph">
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/icon.png" width="55" alt="LangGraph"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://faiss.ai">
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" alt="FAISS"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://n8n.io">
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="55" alt="n8n"/>
-</a>
-
-</p>
+### Automation
+- n8n
+- CrewAI
 
 ---
 
 # 🚀 Featured Projects
 
-## ⚙️ AURA-X
+### 🧠 BusinessVerse AI
+AI-powered business operations platform using Agentic AI, FastAPI, LangGraph, PostgreSQL, Docker, and React.
 
-Autonomous AI work operating system with multi-agent orchestration.
+---
 
+### 🏥 LungCare+
+Healthcare AI platform for intelligent lung disease detection using Deep Learning, FastAPI, RAG, and AI-assisted diagnosis.
+
+---
+
+### 🎤 AI Interview Analyzer
+LLM-powered interview coaching system providing structured feedback and personalized improvement recommendations.
+
+---
+
+### 🤖 AI Lead Qualification System
+Agentic AI workflow that qualifies leads, enriches CRM data, drafts outreach, and automates sales processes using n8n.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Agentic AI
+- MCP (Model Context Protocol)
+- AI Evaluation & Guardrails
 - Multi-Agent Orchestration
-- Model Context Protocol (MCP)
-- n8n Workflow Automation
-- Retrieval-Augmented Generation (RAG)
+- AI Observability
+- Enterprise RAG
+- LLM Fine-Tuning
 
 ---
 
-## 🧠 BusinessVerse AI
-
-Production-grade Multi-Agent Business Intelligence Platform.
-
-- LangGraph
-- FastAPI
-- React
-- PostgreSQL
-- Docker
-- Multi-Agent Workflows
-
-![BusinessVerse](https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Businessverse-AI&theme=tokyonight)
-
----
-
-## 🫁 LungCare+
-
-AI-powered healthcare platform for intelligent lung disease detection.
-
-- Deep Learning
-- RAG
-- FastAPI
-- Medical Imaging
-- Doctor Recommendation
-
----
-
-## 🤖 AI Interview Analyzer
-
-![Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Agnetic-AI-Interview&theme=tokyonight)
-
----
-
-## 📦 Inventory Management System
-
-![Inventory](https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=inventory-management-system&theme=tokyonight)
-
----
-
-# 💼 Open To Work
-
-- AI Engineer
-- Generative AI Engineer
-- Agentic AI Engineer
-- LLM Engineer
-- AI Backend Engineer
-- AI Automation Engineer
-
----
-
-# 🏆 Highlights
-
-- 📄 Published AI healthcare research paper
-- 🤖 Built production-ready AI & Agentic AI systems
-- ⚡ FastAPI backend development
-- 🧠 Enterprise RAG applications
-- 🔄 AI Automation with n8n
-- 🚀 Docker & Cloud deployment
-
----
-
-# 📫 Connect
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/nishantverma0">GitHub</a> •
-  <a href="https://nishantverma.vercel.app">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/nishantv003">LinkedIn</a> •
-  <a href="mailto:nishantv003@gmail.com">Email</a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishantverma0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantverma0&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishantverma0&label=Profile%20Views&style=for-the-badge"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantverma0&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-<b>💡 Building production-ready AI systems that businesses can deploy, trust, and scale.</b>
-</p>
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/nishantv003
+- 🌐 Portfolio: https://nishantverma.vercel.app
+- 📧 Email: nishantv003@gmail.com
+- 💻 GitHub: https://github.com/nishantverma0
+
+---
+
+> **Building AI systems that businesses can deploy, trust, and scale.**
