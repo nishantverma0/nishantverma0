@@ -67,71 +67,31 @@
 ---
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🧠 BusinessVerse AI
+Production-grade Multi-Agent Business Intelligence Platform built with LangGraph, FastAPI, PostgreSQL, Docker and React.
 
-Production-grade Multi-Agent Business Intelligence Platform built with LangGraph, FastAPI, PostgreSQL, Docker, and React.
+🔗 https://github.com/nishantverma0/Businessverse-AI
 
-<p align="center">
-<a href="https://github.com/nishantverma0/Businessverse-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Businessverse-AI&theme=tokyonight&show_icons=true" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🤖 Agentic AI Interview
+AI-powered interview simulator using LLMs, Multi-Agent workflows, emotion analysis and recruiter feedback.
 
-AI-powered interview simulator with multi-agent evaluation, LLM feedback, emotion analysis, and recruiter-style scoring.
+🔗 https://github.com/nishantverma0/Agnetic-AI-Interview
 
-<p align="center">
-<a href="https://github.com/nishantverma0/Agnetic-AI-Interview">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=Agnetic-AI-Interview&theme=tokyonight&show_icons=true" />
-</a>
-</p>
+---
 
-</td>
+### 🫁 LungCare+
+AI-powered healthcare platform for lung disease detection using Deep Learning, FastAPI and RAG.
 
-</tr>
+🔗 https://github.com/nishantverma0/LungCare-An-AI-Driven-CT-Scan-Based-Lung-Cancer-Triage-and-Intelligent-Doctor-Recommendation-System
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏥 LungCare+
-
-AI-powered healthcare platform for intelligent lung disease detection using Deep Learning, FastAPI, RAG, and AI-assisted diagnosis.
-
-<p align="center">
-<a href="https://github.com/nishantverma0/LungCare-An-AI-Driven-CT-Scan-Based-Lung-Cancer-Triage-and-Intelligent-Doctor-Recommendation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=LungCare-An-AI-Driven-CT-Scan-Based-Lung-Cancer-Triage-and-Intelligent-Doctor-Recommendation-System&theme=tokyonight&show_icons=true" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🎯 AI Lead Qualification System
+Agentic AI workflow for lead qualification, CRM enrichment and AI automation using n8n.
 
-Agentic AI workflow that qualifies leads, enriches CRM data, drafts outreach, and automates sales processes using n8n.
-
-<p align="center">
-<a href="https://github.com/nishantverma0/AI-Lead-Qualification-System-n8n">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nishantverma0&repo=AI-Lead-Qualification-System-n8n&theme=tokyonight&show_icons=true" />
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
+🔗 https://github.com/nishantverma0/AI-Lead-Qualification-System-n8n
 
 ---
 
